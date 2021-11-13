@@ -1,0 +1,19 @@
+{
+  "name": "akuma-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "akuma-microservice-framework": "^1.0.7",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.97",
+    "typescript": "^4.4.4"
+  }
+}
